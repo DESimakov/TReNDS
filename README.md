@@ -43,7 +43,8 @@ We will be using [original dataset](https://www.kaggle.com/c/trends-assessment-p
 This code was tested in the following setting:
 * OS: Ubuntu 18.04
 * RAM: 64GB
-* CPU: 12 cores (24 threads)
+* CPU: 12 cores (24 threads), 3800 MHz
+* SSD: 3200 MB/s Sequential Read, 400K IOPS Random Read
 
 
 ## Additional disk space requirements:
